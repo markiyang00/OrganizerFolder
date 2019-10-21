@@ -1,0 +1,14 @@
+C:\Users\MaRk-\source\repos\organizer\organizer\bin\Release\netcoreapp2.2\organizer.deps.json
+C:\Users\MaRk-\source\repos\organizer\organizer\bin\Release\netcoreapp2.2\organizer.runtimeconfig.json
+C:\Users\MaRk-\source\repos\organizer\organizer\bin\Release\netcoreapp2.2\organizer.runtimeconfig.dev.json
+C:\Users\MaRk-\source\repos\organizer\organizer\bin\Release\netcoreapp2.2\organizer.dll
+C:\Users\MaRk-\source\repos\organizer\organizer\bin\Release\netcoreapp2.2\organizer.pdb
+C:\Users\MaRk-\source\repos\organizer\organizer\obj\Release\netcoreapp2.2\organizer.csprojAssemblyReference.cache
+C:\Users\MaRk-\source\repos\organizer\organizer\obj\Release\netcoreapp2.2\organizer.csproj.CoreCompileInputs.cache
+C:\Users\MaRk-\source\repos\organizer\organizer\obj\Release\netcoreapp2.2\organizer.RazorAssemblyInfo.cache
+C:\Users\MaRk-\source\repos\organizer\organizer\obj\Release\netcoreapp2.2\organizer.RazorAssemblyInfo.cs
+C:\Users\MaRk-\source\repos\organizer\organizer\obj\Release\netcoreapp2.2\organizer.AssemblyInfoInputs.cache
+C:\Users\MaRk-\source\repos\organizer\organizer\obj\Release\netcoreapp2.2\organizer.AssemblyInfo.cs
+C:\Users\MaRk-\source\repos\organizer\organizer\obj\Release\netcoreapp2.2\organizer.RazorTargetAssemblyInfo.cache
+C:\Users\MaRk-\source\repos\organizer\organizer\obj\Release\netcoreapp2.2\organizer.dll
+C:\Users\MaRk-\source\repos\organizer\organizer\obj\Release\netcoreapp2.2\organizer.pdb
